@@ -20,7 +20,7 @@
 
 I work at the intersection of **payments operations**, **fraud intelligence**, and **data analytics** in high-volume fintech and iGaming environments.
 
-At **Sportserve**, I monitor 1,000+ daily transactions across multiple payment providers and currencies — investigating failures, detecting fraud patterns, enforcing AML/KYC compliance, and turning operational data into decisions that protect revenue.
+At **Sportserve**, I monitor 1,000+ daily transactions across multiple payment providers and currencies, investigating failures, detecting fraud patterns, enforcing AML/KYC compliance, and turning operational data into decisions that protect revenue.
 
 I don't just run reports. I build the tools that make better decisions possible.
 
