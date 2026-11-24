@@ -5,10 +5,10 @@
 
 # Hi, I'm Ian Mutuma 👋
 
-### Payments Operations Specialist | Fraud Intelligence | AML/KYC | Fintech & iGaming
+### Payments Operations Specialist | Operational Analytics | Fraud & Risk | Business Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-mutuma-3639bb280)
-[![Email](https://img.shields.io/badge/Email-mutumian29@gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutumian29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mutumaian29@gmail.com-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutumaian29@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Nairobi,_Kenya-1C3557?style=for-the-badge)](https://github.com/mutumaian29)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-16A34A?style=for-the-badge)](https://linkedin.com/in/ian-mutuma-3639bb280)
 
@@ -18,11 +18,11 @@
 
 ##  What I Do
 
-I work at the intersection of **payments operations**, **fraud intelligence**, and **data analytics** in high-volume fintech and iGaming environments.
+I work at the intersection of **payments operations**, **risk analysis**, and **data analytics**, with a background in Economics and Finance and training in Data Science.
 
-At **Sportserve**, I monitor 1,000+ daily transactions across multiple payment providers and currencies, investigating failures, detecting fraud patterns, enforcing AML/KYC compliance, and turning operational data into decisions that protect revenue.
+At **Sportserve**, I monitor payment performance across multiple providers and currencies, reconcile transactions, investigate payment failures and suspicious activity, and coordinate with internal teams and payment providers to resolve operational issues.
 
-I don't just run reports. I build the tools that make better decisions possible.
+I enjoy using data to understand business problems, improve operational processes and support decision-making.
 
 ---
 
@@ -32,11 +32,11 @@ I don't just run reports. I build the tools that make better decisions possible.
 
 | Metric | Result |
 |--------|--------|
-|  Transaction failure rate reduction | **15–20%** |
-|  Escalation resolution improvement | **50%+** |
+|  Experience in payments operations | **Since Nov 2024** |
+|  Dashboard report pages | **2** |
 |  Daily transactions monitored | **1,000+** |
 |  Transactions analysed (Shield & Scale) | **20,000** |
-|  DAX measures built (Power BI) | **15** |
+|  Devices flagged for review (simulated project) | **13** |
 |  Payment channels & currencies | **Multi** |
 
 </div>
@@ -45,15 +45,15 @@ I don't just run reports. I build the tools that make better decisions possible.
 
 ##  Featured Projects
 
-### 🛡️ [Project Shield & Scale](https://github.com/mutumaian29/payments-intelligence) — iGaming Fraud Intelligence Pipeline
+### 🛡️ [Project Shield & Scale](https://github.com/mutumaian29/payments-intelligence) — iGaming Payments & Risk Analytics
 
-> *End-to-end fraud detection and payments analytics on 20,000 simulated iGaming transactions*
+> *Payments performance and fraud risk analysis on 20,000 simulated iGaming transaction attempts*
 
 **What it does:**
--  **Entity linking** — detects multi-accounting via shared device IDs and IP addresses
--  **Fraud intelligence** — identifies coordinated fraud rings and velocity anomalies
--  **Revenue recovery modelling** — quantifies leakage from technical failures by provider and corridor
--  **Provider benchmarking** — ranks payment providers by success rate, failure reason, time-of-day, and currency
+-  **Entity analysis** — identifies shared-device patterns for manual review
+-  **Fraud risk analysis** — explores fraud-suspected flags and transaction velocity
+-  **Operational analysis** — examines provider errors, timeouts and other payment failures
+-  **Performance monitoring** — compares provider success rates, hourly failure counts and currency-level performance
 
 **Stack:** Python · Pandas · SQL (SQLite) · Matplotlib · Seaborn · Jupyter
 
@@ -67,7 +67,7 @@ I don't just run reports. I build the tools that make better decisions possible.
 > *Multi-page executive dashboard tracking Revenue, Cost, and Profit KPIs across products, customers, regions, and channels*
 
 **What it does:**
--  **Time intelligence** — YTD, MTD, and YoY KPIs with dynamic MoM variance tracking
+-  **Time intelligence** — YTD, MTD and YoY performance comparisons
 -  **Dynamic formatting** — colour-coded KPI cards using DAX-driven conditional logic
 -  **Star schema model** — FactSales + 4 dimension tables (Customer, Product, Region, Date)
 -  **Interactive visuals** — Ribbon Chart, Treemap, Funnel, Stacked Area, Donut
@@ -118,7 +118,8 @@ Payments Operations Specialist          Sportserve · Nairobi         Nov 2024 �
 Strategy & Risk Intern             Kenya Power & Lighting Co.   Sep 2023 – Dec 2023
 ```
 
-**Currently pursuing:** Certificate in Data Science — ALX Africa
+**Education:** BSc Economics and Finance — Mount Kenya University (2024)  
+**Certification:** Certificate in Data Science — ALX Africa (2026)
 
 ---
 
@@ -126,9 +127,9 @@ Strategy & Risk Intern             Kenya Power & Lighting Co.   Sep 2023 – Dec
 
 I'm actively exploring opportunities in:
 
--  **Payments Operations** — provider management, transaction monitoring, settlement
--  **Fraud & Risk Analytics** — detection, investigation, AML/KYC, dispute resolution
--  **Data Analytics** — payments intelligence, BI reporting, operational analytics
+-  **Payments Operations** — provider performance, transaction monitoring, reconciliation
+-  **Fraud & Risk Analytics** — fraud detection, risk-based customer reviews, investigations
+-  **Data Analytics** — operational analytics, KPI reporting, business intelligence
 
 📍 Based in **Nairobi, Kenya** — open to remote and international opportunities
 
@@ -141,10 +142,10 @@ I'm actively exploring opportunities in:
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [ian-mutuma-3639bb280](https://linkedin.com/in/ian-mutuma-3639bb280) |
-| 📧 Email | [mutumian29@gmail.com](mailto:mutumian29@gmail.com) |
+| 📧 Email | [mutumaian29@gmail.com](mailto:mutumaian29@gmail.com) |
 | 🐙 GitHub | [github.com/mutumaian29](https://github.com/mutumaian29) |
 
-*Always open to connecting with people working in fintech, payments, and fraud/risk spaces.*
+*Always open to connecting with people working in payments, risk, operations and analytics.*
 
 </div>
 
@@ -154,6 +155,6 @@ I'm actively exploring opportunities in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mutumaian29&color=16A34A&style=flat-square&label=Profile+Views)
 
-*"Turning payments data into fraud signals, one pipeline at a time."*
+*"Using data to understand risk, improve operations and support better decisions."*
 
 </div>
