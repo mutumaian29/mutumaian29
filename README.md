@@ -1,4 +1,4 @@
-<!-- GitHub Profile README — mutumaian29/mutumaian29 -->
+<!-- GitHub Profile README: mutumaian29/mutumaian29 -->
 <!-- Renders automatically on github.com/mutumaian29 -->
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 ##  What I Do
 
-I work at the intersection of **payments operations**, **risk analysis**, and **data analytics**, with a background in Economics and Finance and training in Data Science.
+I work in **payments operations** and have a background in Economics and Finance. My training in Data Science has helped me develop my skills in **data analytics** and **risk analysis**.
 
-At **Sportserve**, I monitor payment performance across multiple providers and currencies, reconcile transactions, investigate payment failures and suspicious activity, and coordinate with internal teams and payment providers to resolve operational issues.
+At **Sportserve**, I monitor payment performance across multiple providers and currencies. I reconcile transactions, investigate payment failures and suspicious activity, and work with internal teams and payment providers to resolve issues.
 
 I enjoy using data to understand business problems, improve operational processes and support decision-making.
 
@@ -45,15 +45,15 @@ I enjoy using data to understand business problems, improve operational processe
 
 ##  Featured Projects
 
-### 🛡️ [Project Shield & Scale](https://github.com/mutumaian29/payments-intelligence) — iGaming Payments & Risk Analytics
+### 🛡️ [Project Shield & Scale](https://github.com/mutumaian29/payments-intelligence): iGaming Payments & Risk Analytics
 
 > *Payments performance and fraud risk analysis on 20,000 simulated iGaming transaction attempts*
 
-**What it does:**
--  **Entity analysis** — identifies shared-device patterns for manual review
--  **Fraud risk analysis** — explores fraud-suspected flags and transaction velocity
--  **Operational analysis** — examines provider errors, timeouts and other payment failures
--  **Performance monitoring** — compares provider success rates, hourly failure counts and currency-level performance
+**What I worked on:**
+-  **Entity analysis:** I explored shared devices to identify accounts that warranted further review.
+-  **Fraud risk analysis:** I examined suspected fraud flags and transaction frequency.
+-  **Operational analysis:** I investigated provider errors, timeouts and other payment failures.
+-  **Performance monitoring:** I compared provider success rates, hourly failure counts and performance by currency.
 
 **Stack:** Python · Pandas · SQL (SQLite) · Matplotlib · Seaborn · Jupyter
 
@@ -62,15 +62,15 @@ I enjoy using data to understand business problems, improve operational processe
 
 ---
 
-### 📊 [Business Performance Dashboard](https://github.com/mutumaian29/business-performance-dashboard) — Power BI Executive Dashboard
+### 📊 [Business Performance Dashboard](https://github.com/mutumaian29/business-performance-dashboard): Power BI Executive Dashboard
 
 > *Multi-page executive dashboard tracking Revenue, Cost, and Profit KPIs across products, customers, regions, and channels*
 
-**What it does:**
--  **Time intelligence** — YTD, MTD and YoY performance comparisons
--  **Dynamic formatting** — colour-coded KPI cards using DAX-driven conditional logic
--  **Star schema model** — FactSales + 4 dimension tables (Customer, Product, Region, Date)
--  **Interactive visuals** — Ribbon Chart, Treemap, Funnel, Stacked Area, Donut
+**What I worked on:**
+-  **Time intelligence:** I created measures for YTD, MTD and YoY comparisons.
+-  **Dynamic formatting:** I used DAX to colour KPI cards based on performance.
+-  **Star schema model:** I organised the data into FactSales and four dimension tables (Customer, Product, Region, Date).
+-  **Interactive visuals:** I used ribbon charts, treemaps, funnels, stacked area charts and donut charts.
 
 **Stack:** Power BI · DAX · Star Schema · Data Modelling
 
@@ -118,8 +118,8 @@ Payments Operations Specialist          Sportserve · Nairobi         Nov 2024 �
 Strategy & Risk Intern             Kenya Power & Lighting Co.   Sep 2023 – Dec 2023
 ```
 
-**Education:** BSc Economics and Finance — Mount Kenya University (2024)  
-**Certification:** Certificate in Data Science — ALX Africa (2026)
+**Education:** BSc Economics and Finance: Mount Kenya University (2024)  
+**Certification:** Certificate in Data Science: ALX Africa (2026)
 
 ---
 
@@ -127,11 +127,11 @@ Strategy & Risk Intern             Kenya Power & Lighting Co.   Sep 2023 – Dec
 
 I'm actively exploring opportunities in:
 
--  **Payments Operations** — provider performance, transaction monitoring, reconciliation
--  **Fraud & Risk Analytics** — fraud detection, risk-based customer reviews, investigations
--  **Data Analytics** — operational analytics, KPI reporting, business intelligence
+-  **Payments Operations**: provider performance, transaction monitoring, reconciliation
+-  **Fraud & Risk Analytics**: fraud detection, risk-based customer reviews, investigations
+-  **Data Analytics**: operational analytics, KPI reporting, business intelligence
 
-📍 Based in **Nairobi, Kenya** — open to remote and international opportunities
+📍 I am based in **Nairobi, Kenya** and open to remote and international opportunities.
 
 ---
 
